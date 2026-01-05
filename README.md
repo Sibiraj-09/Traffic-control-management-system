@@ -113,3 +113,6 @@ B.Tech – Artificial Intelligence & Data Science
 
 This project is developed for educational purposes.
 Feel free to use, modify, and enhance it for learning.
+## 🖼️ Screenshots
+### 🚦 Traffic Simulation
+![Traffic Simulation]("D:\TCMS old final\unnamed.png")
