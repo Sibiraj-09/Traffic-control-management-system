@@ -1,0 +1,13 @@
+=== Traffic Control System - Report ===
+Generated at: 2025-11-25 10:25:34
+
+Simulation starts: 3
+Total congestion alerts: 19
+Route optimizations: 17
+Total simulation time (s): 15
+
+Notes:
+- Congestion alerts are simulated randomly during runs.
+- Route optimization suggestions are sample/demo values.
+
+End of report.
