@@ -113,3 +113,5 @@ B.Tech – Artificial Intelligence & Data Science
 
 This project is developed for educational purposes.
 Feel free to use, modify, and enhance it for learning.
+#screenshot...
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/70a7e009-c50a-449b-880c-6a02e226eaf1" />
